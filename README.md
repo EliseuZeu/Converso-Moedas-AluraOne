@@ -6,6 +6,8 @@ Desafio proposto por ONE (Oracle Next Education)
 
 ## O Desafio
 
+Objeto de conversao de moedas. 
+
 Desenvolvido um conversor de moedas, com valores prefixados e um  conversor de Temperatura.
 
 O conversor de moedas deveria fazer as seguintes conversões e tambem as conversões inversas:
